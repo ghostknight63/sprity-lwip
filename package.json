@@ -1,6 +1,6 @@
 {
   "name": "sprity-lwip",
-  "version": "1.0.7",
+  "version": "1.1.0",
   "description": "lwip image processing engine for sprity",
   "repository": {
     "type": "git",
@@ -38,7 +38,7 @@
     "sprity"
   ],
   "dependencies": {
-    "lwip": "0.0.9",
+    "@kant2002/lwip": "1.2.0",
     "bluebird": "^2.9.24"
   },
   "devDependencies": {
